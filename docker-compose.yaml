@@ -1,0 +1,4 @@
+services:
+  go-android:
+    build: .
+    image: agente11/go-android
